@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.header{
+	margin-left:25px;
+	margin-top:30px;
+	border:1px solid;
+	padding:6px;
+	background:#415677;
+	width:450px;
+	color:white;
+	font-size:18px;
+	border-top-right-radius:10em;
+}
+.border{
+	height:325px;
+	width:1030px;
+	border:1px solid #15305b;
+	margin-left:26px;
+}
+.rowstyle{
+	background-color:#a2b3c4;
+	display: inline-block;
+	padding:5px 5px;
+	width:170px;
+	height:14px;
+	font-size:14px;
+}
+.row_value{
+	background-color:#E5E1E0;
+	display: inline-block;
+	 padding:5px 5px;
+	 border:1px #bcbfc4 solid;
+	 width:240px;
+	 height:15px;
+	 font-size:14px;
+}

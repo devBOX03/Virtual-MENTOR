@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.div_style{
+	background-color:#a2b3c4;
+	display: inline-block;
+	padding:5px 5px;
+	width:180px;
+	height:29px;
+	font-size:14px;
+	margin-left:5px;
+}
+.rowvalue{
+	margin-left:5px;
+	width:310px;
+	
+}
+.progressBar{
+	
+   width: 1000px;
+   height:auto;
+   background-color: #cecece;
+   box-shadow: 1px 2px 4px 2px #888888;
+   margin-left:60px;
+   margin-top:40px;
+}
+/*.progress_Bar{
+	margin-top:20px;
+	margin-left:20px;
+	width: 900px;
+    height: 40px;
+    background-color: #d4d4d6;
+    box-shadow: 1px  2px 5px #888888;
+}*/
